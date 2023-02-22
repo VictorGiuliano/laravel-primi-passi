@@ -10,6 +10,8 @@
 
 <body>
     <h1>Hello Word</h1>
+    <p>Prima pagina creata da {{$name}}</p>
+    <p>{{$role}}</p>
 </body>
 
 </html>
