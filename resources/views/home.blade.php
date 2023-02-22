@@ -12,6 +12,8 @@
     <h1>Hello Word</h1>
     <p>Prima pagina creata da {{$name}}</p>
     <p>{{$role}}</p>
+    <a href="presentation">Vai alla Presentazione</a>
+    <a href="credits">Vai ai crediti</a>
 </body>
 
 </html>
